@@ -1,5 +1,5 @@
 """
-WSGI config for heutagogy_server project.
+WSGI config for atl_server project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'heutagogy_server.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'atl_server.settings')
 
 application = get_wsgi_application()
