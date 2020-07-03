@@ -1,6 +1,6 @@
-# heutagogy_server
+# atl_server
 
-This is the back-end server for heutagogy application.  
+This is the back-end server for ATL application.  
 This is a Django REST Server, which provides api paths to
 download/update lessons in the application.  
 The default Django Admin is configured for easy adding of Lessons
